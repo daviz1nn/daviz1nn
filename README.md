@@ -111,6 +111,12 @@ No IC, o veículo inteiro é modelado em Blender e exportado para URDF via Phobo
 
 Em projetos não-acadêmicos, a stack 3D também aparece em geração de criativos (Three.js no site do IC, prompts Blender + Firefly + FLUX em pipelines de marca).
 
+### Próximo capítulo: game engines & VR
+
+A simulação física que faço no Gazebo é, conceitualmente, o que motores de jogo (PhysX no Unreal, Havok no Unity) fazem. O pipeline Blender → URDF é equivalente a asset pipelines de tools engineers em estúdios. Three.js é WebXR um passo distante. C++17 já uso para nós críticos do ROS — é a linguagem nativa do Unreal.
+
+A direção próxima é estender essa stack para **Unity, Unreal Engine 5 e VR (Meta Quest 2 disponível no laboratório)** — começando por portar o digital twin do veículo do IC para Unreal, e depois construir uma cena VR de visualização imersiva da simulação. Aberto a oportunidades em jogos, VR e R&D de simulação.
+
 ---
 
 ## 🎓 Academic
@@ -126,8 +132,8 @@ Em projetos não-acadêmicos, a stack 3D também aparece em geração de criativ
 
 - **LinkedIn:** [davi-figueiredo-martins-a00525262](https://www.linkedin.com/in/davi-figueiredo-martins-a00525262/)
 - **GitHub:** [@daviz1nn](https://github.com/daviz1nn)
-- **Email:** disponível no perfil GitHub
-- **Disponibilidade:** aberto a projetos freelance e oportunidades em IA aplicada / automação / robótica
+- **Email:** dfmartins0710@gmail.com
+- **Disponibilidade:** aberto a projetos freelance e oportunidades em IA aplicada / automação / robótica / game development / VR
 
 ---
 
@@ -155,10 +161,17 @@ In parallel I work as a **freelancer**: I build AI agents, process automations a
 
 A differentiator from typical CS CVs: **3D modeling for robotics and simulation**. The entire research vehicle is modeled in Blender and exported to URDF via Phobos — collision convex hulls, auto-inertia, Ackermann joints, all validated with `check_urdf` before reaching Gazebo. The 3D stack also appears in creative pipelines (Three.js on the project's public site).
 
+### Next chapter: game engines & VR
+
+The physics simulation I run in Gazebo is conceptually the same problem game engines solve (PhysX in Unreal, Havok in Unity). The Blender → URDF pipeline mirrors what tools engineers build at studios. Three.js is one step from WebXR. I already use C++17 for critical ROS nodes — Unreal's native language.
+
+Next direction: extend this stack into **Unity, Unreal Engine 5, and VR (Meta Quest 2, available in the lab)** — starting by porting the IC digital twin into Unreal, then building an immersive VR visualization of the Gazebo simulation. Open to opportunities at game studios, VR projects and simulation R&D.
+
 ### Reach out
 
 - **LinkedIn:** [davi-figueiredo-martins-a00525262](https://www.linkedin.com/in/davi-figueiredo-martins-a00525262/)
 - **GitHub:** [@daviz1nn](https://github.com/daviz1nn)
-- **Open to:** freelance projects and roles in applied AI, automation and robotics.
+- **Email:** dfmartins0710@gmail.com
+- **Open to:** freelance projects and roles in applied AI, automation, robotics, game development and VR.
 
 </details>
